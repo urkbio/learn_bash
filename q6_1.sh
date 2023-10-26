@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 # authro:zyg
 
 a=10
